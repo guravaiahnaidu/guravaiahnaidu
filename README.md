@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Guravaiah Naidu Pasupuleti</h1>
-<h3 align="center">Software Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Guravaiah+%F0%9F%91%8B;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/guravaiah-naidu-pasupuleti-a00698247" target="_blank">
@@ -8,72 +11,115 @@
   <a href="mailto:guravaiahnaidu80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/guravaiahnaidu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guravaiahnaidu&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/guravaiahnaidu?label=Followers&style=flat&color=58A6FF" alt="followers" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Hands-on experience building full-stack applications with the **MERN Stack**
-- 🌱 Currently sharpening my skills in **ReactJS, NodeJS**, and real-time web applications
-- 🔭 Seeking an entry-level **Software Developer** role where I can build scalable, user-friendly applications
-- ⚡ Fun fact: I enjoy solving competitive programming problems in my free time
+```yaml
+name: Guravaiah Naidu Pasupuleti
+role: Software Developer (Entry-Level)
+education: B.Tech, Computer Science & Engineering
+stack: MERN (MongoDB, Express, React, Node.js)
+focus: Full-stack web apps, real-time systems, competitive programming
+looking_for: Software Developer / Frontend Developer opportunities
+```
+
+- 🔭 Currently building full-stack apps with **React, Node.js, and MongoDB**
+- 🧩 Practicing **Data Structures & Algorithms** through competitive programming
+- 🌐 Interested in real-time systems (Socket.io) and scalable REST APIs
+- 📫 Reach me at **guravaiahnaidu80@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Web Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=7" />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+---
 
-**Databases**
+### 📊 GitHub Stats & Activity
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guravaiahnaidu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guravaiahnaidu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**Tools**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guravaiahnaidu&theme=tokyonight&hide_border=true" />
+</p>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guravaiahnaidu&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guravaiahnaidu&theme=tokyonight&row=1&column=6&margin-w=8" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guravaiahnaidu/guravaiahnaidu/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚙️ This snake animation needs a one-time GitHub Actions setup — see Step 4 below.
 
 ---
 
 ### 📌 Featured Projects
 
-**🚚 [Real-Time Fleet Tracking System](https://github.com/guravaiahnaidu)**
-A full-stack real-time vehicle tracking application built with React, Node.js, Express, and Socket.io — featuring live location updates on an interactive Google Maps interface, an admin console for fleet management, and a simulator for live demos.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🛒 [E-Commerce Application](https://github.com/guravaiahnaidu)**
-A full-stack e-commerce platform with product listings, cart management, and authentication flows, built using ReactJS, Node.js/Express, and MongoDB with RESTful APIs and responsive UI components.
+**🚚 Real-Time Fleet Tracking System**
+React • Node.js • Express • Socket.io
 
-> 💡 Update the links above once you add the repository URLs.
+Live vehicle tracking on Google Maps with an admin console, real-time location broadcasts, and a built-in demo simulator.
+
+[🔗 View Repo](https://github.com/guravaiahnaidu)
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 E-Commerce Application**
+React • Node.js • Express • MongoDB
+
+Full-stack storefront with product listings, cart management, authentication, and an admin dashboard.
+
+[🔗 View Repo](https://github.com/guravaiahnaidu)
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace the placeholder links above with your actual repository URLs.
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Competitive Programming
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guravaiahnaidu&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guravaiahnaidu&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guravaiahnaidu&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guravaiahnaidu&theme=radical&row=1&column=6" />
-</p>
+> 💡 Add your actual profile handles as links here once you decide which platforms to showcase (e.g. `[LeetCode](https://leetcode.com/yourhandle)`).
 
 ---
 
@@ -83,3 +129,5 @@ A full-stack e-commerce platform with product listings, cart management, and aut
   <a href="https://linkedin.com/in/guravaiah-naidu-pasupuleti-a00698247" target="_blank">LinkedIn</a> •
   <a href="mailto:guravaiahnaidu80@gmail.com">Email</a>
 </p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
